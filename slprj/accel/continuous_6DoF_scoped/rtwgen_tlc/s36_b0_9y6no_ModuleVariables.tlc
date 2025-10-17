@@ -1,8 +1,0 @@
-%implements s36_b0_9y6no_ModuleVariables "C"
-
-%function ModuleVariables(block) Output
-
-%<TLC_STR_CTX(0)>\
-%<TLC_STR_CTX(1)>\
-%<TLC_STR_CTX(2)>\
-%endfunction
